@@ -6,7 +6,7 @@
 
 <!-- ╔══════════════════  ANIMATED HEADER  ══════════════════╗ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b3e,60:1a1060,100:2d1b69&height=260&section=header&text=JEMAL%20AMAN&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=44&desc=Software%20Engineer%20%C2%B7%20Flutter%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=15&descAlignY=66&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0f,25:003d3d,50:005f5f,75:0e7490,100:06b6d4&height=280&section=header&text=JEMAL%20AMAN&fontSize=74&fontColor=ffffff&animation=twinkling&fontAlignY=44&desc=Software%20Engineer%20%C2%B7%20Flutter%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=15&descAlignY=66&descAlign=50&stroke=22d3ee&strokeWidth=2"/>
 
 <!-- ── Typing SVG ─────────────────────────────────────────── -->
 <a href="https://git.io/typing-svg">
@@ -300,7 +300,7 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1060,100:0a0a0f&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:0a0f0f&height=150&section=footer&animation=twinkling"/>
 
 <br/>
 
